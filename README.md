@@ -8,6 +8,6 @@
 
 - 📫 How to reach me i@robertlumsden.design
 
-- 🌱 [Website](https://robertlumsden.design/)
+- 🌱 [My website](https://robertlumsden.design/)
 
-- 📫 [Linkedin](https://www.linkedin.com/in/robert-ml-lumsden/)
+- 📫 [My linkedin](https://www.linkedin.com/in/robert-ml-lumsden/)
