@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @bobLums
+- 👋 Hi, I’m Robert (Bob)
 
-- 👀 I’m interested in front-end web dev, game dev, ux/ui, art, graphic design.
+- 👀 I’m interested in UX/UI design, web design, custom WordPress, front-end dev, and games.
 
-- 🌱 I’m currently learning front-end web dev, php, javascript, sass, wordpress cms, shopify liquid.
+- 🌱 I’m currently learning PHP, JavaScript, SASS, and WordPress CMS.
 
 - 💞️ I’m looking to collaborate on websites, wordpress sites, shopify sites, small game projects.
 
-- 📫 How to reach me i@robertlumsden.design
+- 📫 How to reach me: hello@robertlumsden.design
 
 - 🌱 [My website](https://robertlumsden.design/)
 
